@@ -58,7 +58,7 @@ L’objectif global est d'explorer en profondeur les fondements du machine learn
 
 ## Auteur
 
-Charles Prioux
-Lucas Colemarre
-Cyprien Deruelle
-Antoine Malmezac
+- Charles Prioux
+- Lucas Colemarre
+- Cyprien Deruelle
+- Antoine Malmezac
